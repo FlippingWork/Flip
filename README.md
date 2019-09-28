@@ -1,4 +1,4 @@
-# Flip
+# Flipr - Arbitrage App
 
 iOS:
 
