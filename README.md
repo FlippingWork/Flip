@@ -2,7 +2,7 @@
 
 iOS:
 
-https://apps.apple.com/us/app/flip/id1449191585?ls=1
+https://apps.apple.com/app/id1449191585
 
 Android:
 
