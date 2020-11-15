@@ -1,6 +1,4 @@
-#Flipr - Arbitrage App
-<!-- TradeDoubler site verification 3191899 --> 
-
+Flipr - Arbitrage App
 
 iOS:
 
